@@ -1,6 +1,6 @@
 # InLab3GameEngine
 Laith Ghannam 100895645
-Bumper car! - Get to the exit while avoiding contact with the maze walls or else you die!
+Bumper car! - Get to the exit while driving a slippery car and trying to avoid contact with the maze walls or else you die!
 Using Observer Design pattern, this is the diagram:
 <img width="732" height="547" alt="image" src="https://github.com/user-attachments/assets/23b8fb14-382a-48c6-988b-ec90889080cf" />
 
