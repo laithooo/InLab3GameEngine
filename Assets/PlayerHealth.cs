@@ -56,13 +56,6 @@ public class PlayerHealth : MonoBehaviour
             OnDeath();
     }
 
-    public void Heal(int amount)
-    {
-        if (amount <= 0) return;
-
-        currentHealth = Mathf.Clamp(currentHealth + amount, 0, maxHealth);
-        NotifyObservers();
-    }
 
     void OnDeath()
     {
